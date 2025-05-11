@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "66ebc5dea9bfeced32ee0554"
+  },
+  "name": "Điện thoại"
+},
+{
+  "_id": {
+    "$oid": "66ebc5dea9bfeced32ee0555"
+  },
+  "name": "Tablet"
+},
+{
+  "_id": {
+    "$oid": "66ebc5dea9bfeced32ee0556"
+  },
+  "name": "Laptop"
+},
+{
+  "_id": {
+    "$oid": "66ebc5dea9bfeced32ee0557"
+  },
+  "name": "Âm thanh"
+},
+{
+  "_id": {
+    "$oid": "66ebc5dea9bfeced32ee0558"
+  },
+  "name": "Đồng hồ"
+},
+{
+  "_id": {
+    "$oid": "66ebc5dea9bfeced32ee0559"
+  },
+  "name": "Camera"
+},
+{
+  "_id": {
+    "$oid": "66ebc5dea9bfeced32ee055a"
+  },
+  "name": "Đồ gia dụng"
+},
+{
+  "_id": {
+    "$oid": "66ebc5dea9bfeced32ee055b"
+  },
+  "name": "Phụ kiện"
+},
+{
+  "_id": {
+    "$oid": "66ebc5dea9bfeced32ee055c"
+  },
+  "name": "PC"
+},
+{
+  "_id": {
+    "$oid": "66ebc5dea9bfeced32ee055d"
+  },
+  "name": "Màn hình"
+},
+{
+  "_id": {
+    "$oid": "66ebc5dea9bfeced32ee055e"
+  },
+  "name": "Máy in"
+},
+{
+  "_id": {
+    "$oid": "66ebc5dea9bfeced32ee055f"
+  },
+  "name": "Tivi"
+},
+{
+  "_id": {
+    "$oid": "674c2a3bb3de0b86bdf2b317"
+  },
+  "name": "demo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d41c1bb850e2d80d4ab80"
+  },
+  "name": "sdaas",
+  "__v": 0
+}]

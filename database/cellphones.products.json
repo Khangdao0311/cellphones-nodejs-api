@@ -1,0 +1,2404 @@
+[{
+  "_id": {
+    "$oid": "673625834aa80dd2035f956e"
+  },
+  "name": "Samsung Galaxy S24 Ultra",
+  "images": [
+    "ss-s24-ultra-xam-222.png",
+    "samsung_galaxy_s24_ultra_256gb_-_1.png",
+    "samsung_galaxy_s24_ultra_256gb_-_2.png",
+    "samsung_galaxy_s24_ultra_256gb_-_10.png",
+    "samsung_galaxy_s24_ultra_256gb_-_9.png",
+    "samsung_galaxy_s24_ultra_256gb_-_7.png",
+    "samsung_galaxy_s24_ultra_256gb_-_8.png",
+    "samsung_galaxy_s24_ultra_256gb_-_12.png",
+    "samsung_galaxy_s24_ultra_256gb_-_15.png",
+    "samsung_galaxy_s24_ultra_256gb_-_5.png",
+    "samsung_galaxy_s24_ultra_256gb_-_3.png",
+    "samsung_galaxy_s24_ultra_1tb_-_17.png",
+    "samsung-galaxy-s24-ultra_3_.png",
+    "samsung-galaxy-s24-ultra.png",
+    "samsung-galaxy-s24-ultra_5_.png",
+    "samsung-galaxy-s24-ultra_7_.png"
+  ],
+  "price": 33990000,
+  "types": [
+    {
+      "name": "12GB 256GB",
+      "price_extra": 0,
+      "price_sale": 6000000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "galaxy-s24-ultra-xam_1_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "galaxy-s24-ultra-tim_1_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "galaxy-s24-ultra-vang_1_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đem",
+          "image": "galaxy-s24-ultra-den-1_1_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "12GB 512GB",
+      "price_extra": 3500000,
+      "price_sale": 4000000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "galaxy-s24-ultra-xam_1_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "galaxy-s24-ultra-tim_1_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "galaxy-s24-ultra-vang_1_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đem",
+          "image": "galaxy-s24-ultra-den-1_1_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "12GB 1T",
+      "price_extra": 10500000,
+      "price_sale": 11000000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "galaxy-s24-ultra-xam_1_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "galaxy-s24-ultra-tim_1_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "galaxy-s24-ultra-vang_1_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đem",
+          "image": "galaxy-s24-ultra-den-1_1_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": true,
+  "rating": 5,
+  "view": {
+    "$numberLong": "2312321312"
+  },
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0554"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f956f"
+  },
+  "name": "iPhone 15 Pro Max | Chính hãng VN/A",
+  "images": [
+    "iphone-15-pro-max_3.png",
+    "iphone-15-pro-max_4__1.png",
+    "iphone-15-pro-max_5__1.png",
+    "iphone-15-pro-max_6__1.png",
+    "iphone-15-pro-max_7__1.png",
+    "iphone-15-pro-max_8__1.png",
+    "iphone-15-pro-max_9__1.png",
+    "iphone-15-pro-max_1__1.png",
+    "iphone-15-pro-max_10__1.png"
+  ],
+  "price": 34990000,
+  "types": [
+    {
+      "name": "256GB",
+      "price_extra": 0,
+      "price_sale": 5700000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Titan Đen",
+          "image": "iphone15-pro-max-titan-den.png",
+          "price_extra": 100000,
+          "quantity": 10
+        },
+        {
+          "name": "Titan Trắng",
+          "image": "iphone15-pro-max-titan-trang.png",
+          "price_extra": 100000,
+          "quantity": 10
+        },
+        {
+          "name": "Titan Xanh",
+          "image": "iphone15-pro-max-titan-xanh.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Titan Tự Nhiên",
+          "image": "iphone15-pro-max-titan-nau.png",
+          "price_extra": 200000,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "512GB",
+      "price_extra": 6000000,
+      "price_sale": 5100000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Titan Đen",
+          "image": "iphone15-pro-max-titan-den.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Titan Trắng",
+          "image": "iphone15-pro-max-titan-trang.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Titan Xanh",
+          "image": "iphone15-pro-max-titan-xanh.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Titan Tự Nhiên",
+          "image": "iphone15-pro-max-titan-nau.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "1TB",
+      "price_extra": 12000000,
+      "price_sale": 4300000,
+      "price_update": 4000000,
+      "colors": [
+        {
+          "name": "Titan Đen",
+          "image": "iphone15-pro-max-titan-den.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Titan Trắng",
+          "image": "iphone15-pro-max-titan-trang.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Titan Xanh",
+          "image": "iphone15-pro-max-titan-xanh.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Titan Tự Nhiên",
+          "image": "iphone15-pro-max-titan-nau.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 4,
+  "view": {
+    "$numberLong": "2421421214"
+  },
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0554"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9570"
+  },
+  "name": "Samsung Galaxy Z Fold6",
+  "images": [
+    "samsung-galaxy-z-fold-6-xanh_5_.png",
+    "samsung_galaxy_z_fold_6_-_1_2.png",
+    "samsung_galaxy_z_fold_6_-_2_2.png",
+    "samsung_galaxy_z_fold_6_-_3_2.png",
+    "samsung_galaxy_z_fold_6_-_4_2.png",
+    "samsung_galaxy_z_fold_6_-_5_2.png",
+    "samsung-galaxy-z-fold-6-xanh_6_.png",
+    "samsung-galaxy-z-fold-6-xanh_2_.png",
+    "samsung-galaxy-z-fold-6-xanh_4_.png",
+    "samsung-galaxy-z-fold-6-xanh_7_.png",
+    "samsung-galaxy-z-fold-6-xanh_3_.png",
+    "samsung-galaxy-z-fold-6-xanh_1_.png"
+  ],
+  "price": 43990000,
+  "types": [
+    {
+      "name": "12GB 256GB",
+      "price_extra": 0,
+      "price_sale": 2000000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Xanh dương",
+          "image": "samsung-galaxy-z-fold-6-xanh.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Hồng",
+          "image": "samsung-galaxy-z-fold-6-hong.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "samsung-galaxy-z-fold-6-xam.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "12GB 512GB",
+      "price_extra": 4000000,
+      "price_sale": 2000000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Xanh dương",
+          "image": "samsung-galaxy-z-fold-6-xanh.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Hồng",
+          "image": "samsung-galaxy-z-fold-6-hong.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "samsung-galaxy-z-fold-6-xam.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "12GB 1TB",
+      "price_extra": 11000000,
+      "price_sale": 2000000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Xanh dương",
+          "image": "samsung-galaxy-z-fold-6-xanh.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Hồng",
+          "image": "samsung-galaxy-z-fold-6-hong.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "samsung-galaxy-z-fold-6-xam.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 21242141,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0554"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9571"
+  },
+  "name": "Samsung Galaxy Z Flip6",
+  "images": [
+    "samsung-galaxy-z-flip-6-xanh-duong-6_2.png",
+    "samsung_galaxy_z_flip_6_-_1.png",
+    "samsung_galaxy_z_flip_6_-_2.png",
+    "samsung_galaxy_z_flip_6_-_3.png",
+    "samsung_galaxy_z_flip_6_-_4.png",
+    "samsung_galaxy_z_flip_6_-_5.png",
+    "samsung-galaxy-z-flip-6-xanh-duong-3_2.png",
+    "samsung-galaxy-z-flip-6-xanh-duong-2_2.png",
+    "samsung-galaxy-z-flip-6-xanh-duong-1_2.png",
+    "samsung-galaxy-z-flip-6-xanh-duong-4_2.png",
+    "samsung-galaxy-z-flip-6-xanh-duong-5_2.png"
+  ],
+  "price": 28990000,
+  "types": [
+    {
+      "name": "12GB 256GB",
+      "price_extra": 0,
+      "price_sale": 2000000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Xanh dương",
+          "image": "flip-xanh.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "flip-xam.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "flip-vang.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh lá",
+          "image": "flip-xanh-la.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "12GB 512GB",
+      "price_extra": 4000000,
+      "price_sale": 2000000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Xanh dương",
+          "image": "flip-xanh.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "flip-xam.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "flip-vang.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh lá",
+          "image": "flip-xanh-la.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 12412410,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0554"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9572"
+  },
+  "name": "iPhone 15 | Chính hãng VN/A",
+  "images": [
+    "iphone-15-plus_1__1.png",
+    "vn_iphone_15_pink_pdp_image_position-2_design_2.png",
+    "vn_iphone_15_pink_pdp_image_position-3_design_detail_2.png",
+    "vn1b93_1_2.png",
+    "vn_iphone_15_pink_pdp_image_position-5_colors_2.png",
+    "vn_iphone_15_pink_pdp_image_position-6_dynamic_island_2.png",
+    "vn_iphone_15_pink_pdp_image_position-7_features_specs_2.png",
+    "vn_iphone_15_pink_pdp_image_position-9_accessory_2.png",
+    "vn_iphone_15_pink_pdp_image_position-8_usb-c_charge_cable_2.png"
+  ],
+  "price": 22990000,
+  "types": [
+    {
+      "name": "128GB",
+      "price_extra": 0,
+      "price_sale": 3400000,
+      "price_update": 1800000,
+      "colors": [
+        {
+          "name": "Hồng",
+          "image": "iphone-15-hong.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh dương",
+          "image": "iphone-15-xanh-duong.png",
+          "price_extra": 100000,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh lá",
+          "image": "iphone-15-xanh-la.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đen",
+          "image": "iphone-15-den.png",
+          "price_extra": 200000,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "iphone-15-vang.png",
+          "price_extra": 200000,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "256GB",
+      "price_extra": 3000000,
+      "price_sale": 3100000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Hồng",
+          "image": "iphone-15-hong.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh dương",
+          "image": "iphone-15-xanh-duong.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh lá",
+          "image": "iphone-15-xanh-la.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đen",
+          "image": "iphone-15-den.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "iphone-15-vang.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "512GB",
+      "price_extra": 9000000,
+      "price_sale": 3500000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Hồng",
+          "image": "iphone-15-hong.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh dương",
+          "image": "iphone-15-xanh-duong.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh lá",
+          "image": "iphone-15-xanh-la.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đen",
+          "image": "iphone-15-den.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "iphone-15-vang.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": {
+    "$numberLong": "12421521520"
+  },
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0554"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9573"
+  },
+  "name": "iPad Gen 10 10.9 inch 2022 | Chính hãng Apple Việt Nam",
+  "images": [
+    "ipad-10-9-inch-2022.png",
+    "ipad_gen_10_64gb_-_121.png",
+    "ipad_gen_10_64gb_-_2.png",
+    "ipad_gen_10_64gb_-_6.png",
+    "ipad_gen_10_64gb_-_5.png",
+    "ipad_gen_10_64gb_-_7.png",
+    "ipad_gen_10_64gb_-_3.png",
+    "ipad_gen_10_64gb_-_8.png"
+  ],
+  "price": 12990000,
+  "types": [
+    {
+      "name": "WiFi 64GB",
+      "price_extra": 0,
+      "price_sale": 3200000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Bạc",
+          "image": "b_ccc.png",
+          "price_extra": 100000,
+          "quantity": 10
+        },
+        {
+          "name": "Hồng",
+          "image": "h_ngff.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "vnaggf.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh",
+          "image": "xnah_d_.png",
+          "price_extra": 100000,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "WiFi 256GB",
+      "price_extra": 4000000,
+      "price_sale": 3200000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Bạc",
+          "image": "b_ccc.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Hồng",
+          "image": "h_ngff.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "vnaggf.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh",
+          "image": "xnah_d_.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "WiFi + 5G 64GB",
+      "price_extra": 4000000,
+      "price_sale": 3200000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Bạc",
+          "image": "b_ccc.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Hồng",
+          "image": "h_ngff.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "vnaggf.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh",
+          "image": "xnah_d_.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "WiFi + 5G 256GB",
+      "price_extra": 8000000,
+      "price_sale": 3700000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Bạc",
+          "image": "b_ccc.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Hồng",
+          "image": "h_ngff.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "vnaggf.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh",
+          "image": "xnah_d_.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 1242140,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0555"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9574"
+  },
+  "name": "iPad Air 6 M2 11 inch Wifi",
+  "images": [
+    "ipad-air-6-m2-11-inch_9_.png",
+    "ipad-air-6-m2-11-inch_2__1_1.png",
+    "ipad-air-6-m2-11-inch_3__1_1.png",
+    "ipad-air-6-m2-11-inch_4__1_1.png",
+    "ipad-air-6-m2-11-inch_3_1.png",
+    "ipad-air-6-m2-11-inch_6__4.png",
+    "ipad-air-6-m2-11-inch_7__4.png",
+    "ipad-air-6-m2-11-inch_8_.png"
+  ],
+  "price": 16990000,
+  "types": [
+    {
+      "name": "128GB",
+      "price_extra": 0,
+      "price_sale": 0,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Xanh dương",
+          "image": "ipad-air-6-m2-11-inch.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Trắng vàng",
+          "image": "ipad-air-6-m2-11-inch_3_.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "ipad-air-6-m2-11-inch_2_.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "frame_100_5__3.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "256GB",
+      "price_extra": 2500000,
+      "price_sale": 0,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Xanh dương",
+          "image": "ipad-air-6-m2-11-inch.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Trắng vàng",
+          "image": "ipad-air-6-m2-11-inch_3_.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "ipad-air-6-m2-11-inch_2_.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "frame_100_5__3.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "512GB",
+      "price_extra": 8000000,
+      "price_sale": 0,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Xanh dương",
+          "image": "ipad-air-6-m2-11-inch.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Trắng vàng",
+          "image": "ipad-air-6-m2-11-inch_3_.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "ipad-air-6-m2-11-inch_2_.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "frame_100_5__3.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "1TB",
+      "price_extra": 13500000,
+      "price_sale": 0,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Xanh dương",
+          "image": "ipad-air-6-m2-11-inch.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Trắng vàng",
+          "image": "ipad-air-6-m2-11-inch_3_.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "ipad-air-6-m2-11-inch_2_.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "frame_100_5__3.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": true,
+  "rating": 5,
+  "view": {
+    "$numberLong": "3253252350"
+  },
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0555"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9575"
+  },
+  "name": "iPad 10.2 2021 | Chính hãng Apple Việt Nam",
+  "images": [
+    "ipad-10-2-inch-2021_1.png",
+    "ipad-10-2-inch-2021_10_.png",
+    "ipad-10-2-inch-2021_9_.png",
+    "ipad-10-2-inch-2021_8_.png",
+    "ipad_10.2.png",
+    "2c_v.png",
+    "ipad-10-2-inch-2021_11_.png",
+    "ipad-10-2-inch-2021_7_.png",
+    "ipad-10-2-inch-2021.png"
+  ],
+  "price": 8990000,
+  "types": [
+    {
+      "name": "WiFi 64GB",
+      "price_extra": 0,
+      "price_sale": 1840000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "x_mmas_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "bcjjcc_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "WiFi 256GB",
+      "price_extra": 4000000,
+      "price_sale": 3200000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "x_mmas_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "bcjjcc_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "4G 64GB",
+      "price_extra": 3000000,
+      "price_sale": 1600000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "x_mmas_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "bcjjcc_1.png",
+          "price_extra": 100000,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "4G 256GB",
+      "price_extra": 7000000,
+      "price_sale": 2000000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "x_mmas_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "bcjjcc_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": {
+    "$numberLong": "2352352350"
+  },
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0555"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9576"
+  },
+  "name": "iPad mini 6 | Chính hãng Apple Việt Nam",
+  "images": [
+    "ipad-mini-6_2.png",
+    "ipad-mini-6_10__1.png",
+    "ipad-mini-6_7__1.png",
+    "ipad-mini-6_6__1.png",
+    "ipad-mini-6_9__1.png",
+    "ipad-mini-6_5__1.png",
+    "ipad-mini-6_3__1.png",
+    "ipad-mini-6_1__1.png",
+    "ipad-mini-6_1_4.png"
+  ],
+  "price": 13990000,
+  "types": [
+    {
+      "name": "WiFi 64GB",
+      "price_extra": 0,
+      "price_sale": 1200000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Hồng",
+          "image": "ipad-mini-6-2_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "ipad-mini-6-3_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng trắng",
+          "image": "ipad-mini-6-4_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "2_246_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "WiFi 256GB",
+      "price_extra": 4000000,
+      "price_sale": 1000000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Hồng",
+          "image": "ipad-mini-6-2_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "ipad-mini-6-3_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng trắng",
+          "image": "ipad-mini-6-4_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "2_246_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "LTE 64GB",
+      "price_extra": 4000000,
+      "price_sale": 1000000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Hồng",
+          "image": "ipad-mini-6-2_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "ipad-mini-6-3_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng trắng",
+          "image": "ipad-mini-6-4_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "2_246_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "LTE 256GB",
+      "price_extra": 6000000,
+      "price_sale": 0,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Hồng",
+          "image": "ipad-mini-6-2_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "ipad-mini-6-3_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng trắng",
+          "image": "ipad-mini-6-4_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "2_246_1.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": true,
+  "rating": 5,
+  "view": 52352430,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0555"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9577"
+  },
+  "name": "Samsung Galaxy Tab S9",
+  "images": [
+    "ss-tab-s9_3.png",
+    "galaxy_tab_s9_plus_-_38_2.png",
+    "galaxy_tab_s9_plus_-_15_2.png",
+    "galaxy_tab_s9_plus_-_18_2.png",
+    "galaxy_tab_s9_-_3_2.png",
+    "galaxy_tab_s9_-_2_2.png",
+    "tab-s9-xam-1_2.png",
+    "tab-s9-xam-2_2.png",
+    "tab-s9-xam-3_2.png",
+    "014-galaxy-tabs9-beige-back.png"
+  ],
+  "price": 19990000,
+  "types": [
+    {
+      "name": "WiFi 8GB 128GB",
+      "price_extra": 0,
+      "price_sale": 3000000,
+      "price_update": 500000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "ss-tab-s9_7.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Kem",
+          "image": "ss-tab-s9_1__7.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "WiFi 12GB 256GB",
+      "price_extra": 2000000,
+      "price_sale": 4300000,
+      "price_update": 500000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "ss-tab-s9_7.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Kem",
+          "image": "ss-tab-s9_1__7.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "5G 8GB 128GB",
+      "price_extra": 3000000,
+      "price_sale": 3000000,
+      "price_update": 500000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "ss-tab-s9_7.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Kem",
+          "image": "ss-tab-s9_1__7.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "5G 12GB 256GB",
+      "price_extra": 5000000,
+      "price_sale": 4400000,
+      "price_update": 500000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "ss-tab-s9_7.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Kem",
+          "image": "ss-tab-s9_1__7.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 325230,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0555"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9578"
+  },
+  "name": "MacBook Pro 14 M3 Pro | Chính hãng Apple Việt Nam",
+  "images": [
+    "group_560_10_.png",
+    "macbook-pro-14-inch-m3-pro-2023_1_.png",
+    "macbook-pro-14-inch-m3-pro-2023_4_.png",
+    "macbook-pro-14-inch-m3-pro-2023_5_.png",
+    "macbook-pro-14-inch-m3-pro-2023_8_.png",
+    "macbook-pro-14-inch-m3-pro-2023_2_.png",
+    "macbook-pro-14-inch-m3-pro-2023_3_.png",
+    "macbook-pro-14-inch-m3-pro-2023_10_.png",
+    "macbook-pro-14-inch-m3-pro-2023_9_.png"
+  ],
+  "price": 49990000,
+  "types": [
+    {
+      "name": "18GB - 512GB",
+      "price_extra": 0,
+      "price_sale": 1200000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Đen",
+          "image": "macbook-pro-16-inch-m3-pro-2023-den.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "macbook-pro-16-inch-m3-pro-2023-bac.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "18GB - 1TB",
+      "price_extra": 10000000,
+      "price_sale": 1000000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Đen",
+          "image": "macbook-pro-16-inch-m3-pro-2023-den.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "macbook-pro-16-inch-m3-pro-2023-bac.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "36GB - 512GB",
+      "price_extra": 10000000,
+      "price_sale": 500000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Đen",
+          "image": "macbook-pro-16-inch-m3-pro-2023-den.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "macbook-pro-16-inch-m3-pro-2023-bac.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 32526540,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0556"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9579"
+  },
+  "name": "Apple MacBook Air M2 2022 | Chính hãng Apple Việt Nam",
+  "images": [
+    "macbook_1__1_8.png",
+    "2_54_9.png",
+    "3_40_7.png",
+    "4_33_8.png",
+    "5_27_7.png",
+    "7_7_2.png",
+    "9_2_3.png",
+    "8_6_2.png",
+    "11_5_1.png",
+    "10_5_3.png"
+  ],
+  "price": 24990000,
+  "types": [
+    {
+      "name": "8GB - 256GB",
+      "price_extra": 0,
+      "price_sale": 1300000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Trắng",
+          "image": "macbook_air_m2_3_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "macbook_air_m2_4_2.png",
+          "price_extra": 100000,
+          "quantity": 10
+        },
+        {
+          "name": "Đen",
+          "image": "macbook_air_m2_1_2.png",
+          "price_extra": 100000,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "macbook_air_m2_2_3.png",
+          "price_extra": 100000,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "16GB - 256GB",
+      "price_extra": 5000000,
+      "price_sale": 1100000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Trắng",
+          "image": "macbook_air_m2_3_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "macbook_air_m2_4_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đen",
+          "image": "macbook_air_m2_1_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "macbook_air_m2_2_3.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "8GB - 512GB",
+      "price_extra": 15000000,
+      "price_sale": 10700000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Trắng",
+          "image": "macbook_air_m2_3_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "macbook_air_m2_4_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đen",
+          "image": "macbook_air_m2_1_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "macbook_air_m2_2_3.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "16GB - 512GB",
+      "price_extra": 10000000,
+      "price_sale": 1300000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Trắng",
+          "image": "macbook_air_m2_3_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "macbook_air_m2_4_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đen",
+          "image": "macbook_air_m2_1_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "macbook_air_m2_2_3.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "24GB - 256GB",
+      "price_extra": 10000000,
+      "price_sale": 1000000,
+      "price_update": 2000000,
+      "colors": [
+        {
+          "name": "Trắng",
+          "image": "macbook_air_m2_3_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "macbook_air_m2_4_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đen",
+          "image": "macbook_air_m2_1_2.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "macbook_air_m2_2_3.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 547657650,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0556"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f957a"
+  },
+  "name": "Laptop Acer Aspire 5 A515-58GM-59LJ",
+  "images": [
+    "group_509_44_.png",
+    "laptop_acer_aspire_5_a515-58gm-59lj.png",
+    "text_ng_n_6_4.png",
+    "text_ng_n_1__3_5.png",
+    "text_ng_n_2__4_5.png",
+    "text_ng_n_8__3_6.png",
+    "text_ng_n_7__1_5.png",
+    "text_ng_n_3__3_5.png",
+    "text_ng_n_5__4_7.png",
+    "text_ng_n_4__4_4.png",
+    "text_ng_n_6__1_6.png"
+  ],
+  "price": 20490000,
+  "types": [
+    {
+      "name": "I5-13420H 8GB 512GB",
+      "price_extra": 0,
+      "price_sale": 4500000,
+      "price_update": 3000000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "text_ng_n_6_5.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": true,
+  "rating": 5,
+  "view": 565465460,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0556"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f957b"
+  },
+  "name": "Laptop ASUS ROG Zephyrus G16 GA605WI-QR090WS",
+  "images": [
+    "group_565_1__1.png",
+    "demo_latop_-_t_th_ng_tin_6_.png",
+    "laptop_asus_rog_zephyrus_g16_ga605wi-qr090ws_-_1.png",
+    "laptop_asus_rog_zephyrus_g16_ga605wi-qr090ws_-_2.png",
+    "laptop_asus_rog_zephyrus_g16_ga605wi-qr090ws_-_4.png",
+    "laptop_asus_rog_zephyrus_g16_ga605wi-qr090ws_-_3.png",
+    "text_ng_n_25__2_28.png",
+    "text_ng_n_26__2_26.png",
+    "text_ng_n_27__3_23.png",
+    "text_ng_n_28__4_21.png",
+    "text_ng_n_29__5_18.png",
+    "text_ng_n_30__4_21.png"
+  ],
+  "price": 81990000,
+  "types": [
+    {
+      "name": "R9-HX370 32GB 1TB",
+      "price_extra": 0,
+      "price_sale": 0,
+      "price_update": 4000000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "text_ng_n_25__2_29.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 6570,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0556"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f957c"
+  },
+  "name": "Laptop Masstel E140 Celeron",
+  "images": [
+    "text_ng_n_8__4_54.png",
+    "demo_latop_-_t_th_ng_tin_12.png",
+    "text_ng_n_9_36.png",
+    "text_ng_n_1__6_18.png",
+    "text_ng_n_2__6_26.png",
+    "text_ng_n_3__5_28.png",
+    "text_ng_n_4__6_26.png",
+    "text_ng_n_5__7_24.png",
+    "text_ng_n_6__2_65.png",
+    "text_ng_n_7__2_55.png"
+  ],
+  "price": 7990000,
+  "types": [
+    {
+      "name": "4GB 128GB",
+      "price_extra": 0,
+      "price_sale": 4400000,
+      "price_update": 3000000,
+      "colors": [
+        {
+          "name": "Xám",
+          "image": "text_ng_n_9_37.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 86586580,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0556"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f957d"
+  },
+  "name": "Tai nghe Bluetooth Apple AirPods Pro 2 2023 | Chính hãng Apple Việt Nam",
+  "images": [
+    "apple-airpods-pro-2.png",
+    "apple-airpods-pro-2022-ksp-1.png",
+    "1_264.png",
+    "3_237.png",
+    "4_197.png",
+    "5_167.png",
+    "6_135.png"
+  ],
+  "price": 6190000,
+  "types": [
+    {
+      "name": "Lightning",
+      "price_extra": 0,
+      "price_sale": 840000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Trắng",
+          "image": "apple-airpods-pro-2-trang.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "USB-C",
+      "price_extra": 0,
+      "price_sale": 400000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Trắng",
+          "image": "apple-airpods-pro-2-trang.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": true,
+  "rating": 5,
+  "view": 75686580,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0557"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f957e"
+  },
+  "name": "Tai nghe Bluetooth True Wireless HUAWEI FreeClip",
+  "images": [
+    "tai-nghe-khong-day-huawei-freeclip-000.png",
+    "tai-nghe-khong-day-huawei-freeclip_2_.png",
+    "tai-nghe-khong-day-huawei-freeclip_4_.png",
+    "tai-nghe-khong-day-huawei-freeclip_3_.png",
+    "tai-nghe-khong-day-huawei-freeclip_5_.png",
+    "tai-nghe-khong-day-huawei-freeclip_6_.png",
+    "frame_101_1.png",
+    "tai-nghe-khong-day-huawei-freeclip_9_.png",
+    "tai-nghe-khong-day-huawei-freeclip_10_.png"
+  ],
+  "price": 4990000,
+  "types": [
+    {
+      "name": "Wireless HUAWEI FreeClip",
+      "price_extra": 0,
+      "price_sale": 1500000,
+      "price_update": 500000,
+      "colors": [
+        {
+          "name": "Be",
+          "image": "frame_100_1_3.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đen",
+          "image": "tai-nghe-khong-day-huawei-freeclip_7_.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "tai-nghe-khong-day-huawei-freeclip_8_.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 32131320,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0557"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f957f"
+  },
+  "name": "Tai nghe Bluetooth thể thao Havit Openbuds 1",
+  "images": [
+    "tai-nghe-the-thao-havit-openbuds-1_7_.png",
+    "tai-nghe-the-thao-havit-openbuds-1_2_.png",
+    "tai-nghe-the-thao-havit-openbuds-1.png",
+    "tai-nghe-the-thao-havit-openbuds-1_3_.png",
+    "tai-nghe-the-thao-havit-openbuds-1_4_.png",
+    "tai-nghe-the-thao-havit-openbuds-1_1_.png",
+    "tai-nghe-the-thao-havit-openbuds-1_6_.png",
+    "tai-nghe-the-thao-havit-openbuds-1_5_.png",
+    "tai-nghe-the-thao-havit-openbuds-1-ksp_3_.png"
+  ],
+  "price": 990000,
+  "types": [
+    {
+      "name": "Havit Openbuds 1",
+      "price_extra": 0,
+      "price_sale": 450000,
+      "price_update": 0,
+      "colors": [
+        {
+          "name": "Be",
+          "image": "tai-nghe-the-thao-havit-openbuds-1_3__1.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đen",
+          "image": "tai-nghe-the-thao-havit-openbuds-1_1__1.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 494984650,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0557"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9580"
+  },
+  "name": "Tai nghe Bluetooth True Wireless Samsung Galaxy Buds FE",
+  "images": [
+    "samsung-galaxy-buds-fe.png",
+    "samsung-galaxy-buds-fe-00.png",
+    "samsung-galaxy-buds-fe_2__1.png",
+    "samsung-galaxy-buds-fe_4__1.png",
+    "samsung-galaxy-buds-fe_3__1.png",
+    "samsung-galaxy-buds-fe_6__1.png",
+    "samsung-galaxy-buds-fe_5__1.png",
+    "samsung-galaxy-buds-fe_8__1.png",
+    "samsung-galaxy-buds-fe_12__1.png",
+    "samsung-galaxy-buds-fe_11__1.png"
+  ],
+  "price": 1990000,
+  "types": [
+    {
+      "name": "Wireless Samsung Galaxy Buds FE",
+      "price_extra": 0,
+      "price_sale": 700000,
+      "price_update": 0,
+      "colors": [
+        {
+          "name": "Đen",
+          "image": "samsung-galaxy-buds-fe-den.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Trắng",
+          "image": "samsung-galaxy-buds-fe-trang.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": true,
+  "rating": 5,
+  "view": 21313210,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0557"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9581"
+  },
+  "name": "Tai nghe thể thao Xiaomi Openwear Stereo",
+  "images": [
+    "tai-nghe-khong-day-xiaomi-openwear-stereo-thumb.png",
+    "tai-nghe-khong-day-xiaomi-openwear-stereo-1.png",
+    "tai-nghe-khong-day-xiaomi-openwear-stereo-4.png",
+    "175_1_1.png",
+    "176_2.png",
+    "tai-nghe-khong-day-xiaomi-openwear-stereo-6.png",
+    "tai-nghe-khong-day-xiaomi-openwear-stereo-7.png",
+    "tai-nghe-khong-day-xiaomi-openwear-stereo-8.png"
+  ],
+  "price": 2990000,
+  "types": [
+    {
+      "name": "Xiaomi Openwear Stereo",
+      "price_extra": 0,
+      "price_sale": 340000,
+      "price_update": 0,
+      "colors": [
+        {
+          "name": "Vàng Beige",
+          "image": "image_1322.png",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xám",
+          "image": "image_1323.png",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 49846510,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0557"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9582"
+  },
+  "name": "Đồng hồ thông minh Huawei Watch D2",
+  "images": [
+    "huawei_3.webp",
+    "_ng_h__4_3.webp",
+    "_ng_h_2__1_6.webp",
+    "_ng_h_3__1_6.webp",
+    "_ng_h_4__1_4.webp",
+    "_ng_h_1__1_6.webp",
+    "text_ng_n_1__6_111.webp",
+    "text_ng_n_13_5.webp",
+    "text_ng_n_3__5_117.webp",
+    "text_ng_n_2__6_129.webp",
+    "text_ng_n_4__6_112.webp",
+    "text_ng_n_5__7_106.webp"
+  ],
+  "price": 9990000,
+  "types": [
+    {
+      "name": "Huawei Watch D2",
+      "price_extra": 0,
+      "price_sale": 1000000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Đen",
+          "image": "text_ng_n_1__6_112.webp",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Vàng",
+          "image": "text_ng_n_9__4_150.webp",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": true,
+  "rating": 5,
+  "view": 13132125,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0558"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9583"
+  },
+  "name": "Đồng hồ thông minh Xiaomi Redmi Watch 4",
+  "images": [
+    "xiaomiii.webp",
+    "_ng_h_th_ng_minh_xiaomi_redmi_watch_4_2.png",
+    "text_ng_n_25__1_9.webp",
+    "n65-black-front_1.webp",
+    "n65-black-left_1.webp",
+    "n65-black-frontright45_1.webp",
+    "n65-black-right_1.webp"
+  ],
+  "price": 2690000,
+  "types": [
+    {
+      "name": "Xiaomi Redmi Watch 4",
+      "price_extra": 0,
+      "price_sale": 300000,
+      "price_update": 1,
+      "colors": [
+        {
+          "name": "Bạc",
+          "image": "n65-white-front.webp",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đen",
+          "image": "n65-black-front_1_1.webp",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 12312312,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0558"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9584"
+  },
+  "name": "Apple Watch SE 2 2024 40mm (GPS) Viền Nhôm Dây Cao Su",
+  "images": [
+    "apple_lte_3_2.webp",
+    "text_ng_n_4__6_89.webp",
+    "text_ng_n_5__7_83.webp",
+    "apple__4_19.webp",
+    "ap2ae5_1_1.webp",
+    "ap60be_1_1.webp",
+    "apple__1_1_5.webp",
+    "apple__2_15.webp"
+  ],
+  "price": 5990000,
+  "types": [
+    {
+      "name": "Apple Watch SE 2",
+      "price_extra": 0,
+      "price_sale": 200000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Đen",
+          "image": "text_ng_n_1__6_90.webp",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Bạc",
+          "image": "text_ng_n_2__6_103.webp",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Trắng vàng",
+          "image": "text_ng_n_3__5_95.webp",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 23213124,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0558"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9585"
+  },
+  "name": "Apple Watch Ultra 2 49mm (4G) viền titan dây vải Alpine cỡ trung | Chính hãng Apple Việt Nam",
+  "images": [
+    "group_86_1_1.webp",
+    "apple-watch-ultra-2-2023-49mm-4g-vien-titan-day-vai-alpine-co-trung-.webp",
+    "apple-watch-ultra-2-2023-49mm-4g-vien-titan-day-vai-alpine-co-trung-_1_.webp",
+    "apple-watch-ultra-2-2023-49mm-4g-vien-titan-day-vai-alpine-co-trung-_2_.webp",
+    "apple-watch-ultra-2-2023-49mm-4g-vien-titan-day-vai-alpine-co-trung-_7_.webp",
+    "apple-watch-ultra-2-2023-49mm-4g-vien-titan-day-vai-alpine-co-trung-_8_.webp",
+    "apple-watch-ultra-2-2023-49mm-4g-vien-titan-day-vai-alpine-co-trung-_9_.webp"
+  ],
+  "price": 21990000,
+  "types": [
+    {
+      "name": "Apple Watch Ultra 2 49mm",
+      "price_extra": 0,
+      "price_sale": 4500000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Xanh Olive",
+          "image": "text_ng_n_38__6_11.webp",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Xanh Dương",
+          "image": "blueee.webp",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Tím",
+          "image": "apple-watch-ultra-lte-49mm-vien-titanium-day-alpine-size-l-nau-101-removebg-preview.webp",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 123412412,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0558"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9586"
+  },
+  "name": "Đồng hồ Samsung Galaxy Watch FE 40mm",
+  "images": [
+    "samsung-galaxy-watch-fe_1_.webp",
+    "samsung-galaxy-watch-fe_2_.webp",
+    "samsung_galaxy_watch_fe_-_1.webp",
+    "samsung_galaxy_watch_fe_-_2.webp",
+    "samsung_galaxy_watch_fe_-_3.webp",
+    "samsung_galaxy_watch_fe_-_4.webp",
+    "samsung_galaxy_watch_fe_-_5.webp",
+    "samsung-galaxy-watch-fe_3_.webp",
+    "samsung-galaxy-watch-fe_4_.webp",
+    "samsung-galaxy-watch-fe_5_.webp",
+    "samsung-galaxy-watch-fe_6_.webp",
+    "samsung-galaxy-watch-fe_7_.webp",
+    "samsung-galaxy-watch-fe_8_.webp"
+  ],
+  "price": 4990000,
+  "types": [
+    {
+      "name": "Samsung Galaxy Watch FE 40mm",
+      "price_extra": 0,
+      "price_sale": 2300000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Hồng",
+          "image": "samsung-galaxy-watch-fe_3__1.webp",
+          "price_extra": 0,
+          "quantity": 10
+        },
+        {
+          "name": "Đen",
+          "image": "samsung-galaxy-watch-fe_2__1.webp",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 0,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0558"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9587"
+  },
+  "name": "Camera DJI Osmo Action 4",
+  "images": [
+    "camera-hanh-dong-dji-action-4_12_.webp",
+    "camera-hanh-dong-dji-action-4_2_.webp",
+    "camera-hanh-dong-dji-action-4_5_.webp",
+    "camera-hanh-dong-dji-action-4_7_.webp",
+    "camera-hanh-dong-dji-action-4_8_.webp",
+    "camera-hanh-dong-dji-action-4_4_.webp",
+    "camera-hanh-dong-dji-action-4_6_.webp",
+    "camera-hanh-dong-dji-action-4_9_.webp",
+    "camera-hanh-dong-dji-action-4_3_.webp",
+    "camera-hanh-dong-dji-action-4_10_.webp"
+  ],
+  "price": 9190000,
+  "types": [
+    {
+      "name": "DJI Osmo Action 4",
+      "price_extra": 0,
+      "price_sale": 3430000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Đen",
+          "image": "dji-action-4-0-1_1.webp",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "DJI Osmo Action 4 Combo",
+      "price_extra": 2500000,
+      "price_sale": 3500000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Đen",
+          "image": "dji-action-4-0-1_1.webp",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": true,
+  "rating": 5,
+  "view": 23233,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0559"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9588"
+  },
+  "name": "Camera Insta360",
+  "images": [
+    "camera-hanh-trinh-insta360-one-x3.webp",
+    "1_210.webp",
+    "2_200_3.webp",
+    "4_147.webp",
+    "3_184.webp",
+    "5_124.webp",
+    "7_67.webp",
+    "8_48.webp",
+    "6_103.webp"
+  ],
+  "price": 11560000,
+  "types": [
+    {
+      "name": "Insta360 One X3",
+      "price_extra": 0,
+      "price_sale": 3070000,
+      "price_update": 1000000,
+      "colors": [
+        {
+          "name": "Đen",
+          "image": "1_210_2.webp",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Insta 360X4",
+      "price_extra": 100000,
+      "price_sale": 100000,
+      "price_update": 100000,
+      "colors": [
+        {
+          "name": "Đen",
+          "image": "1_210_2.webp",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 121312,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0559"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f9589"
+  },
+  "name": "Camera IP 360 độ 2MP EZVIZ TY1",
+  "images": [
+    "camera-ip-wifi-ezviz-ty1-1080p_1_3.webp",
+    "camera-ip-wifi-ezviz-ty1-1080p_1_2.webp",
+    "1_473.webp"
+  ],
+  "price": 1200000,
+  "types": [
+    {
+      "name": "IP 360 độ 2MP EZVIZ TY1",
+      "price_extra": 0,
+      "price_sale": 860000,
+      "price_update": 100000,
+      "colors": [
+        {
+          "name": "Trắng",
+          "image": "1_473_1.webp",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 21312,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0559"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f958a"
+  },
+  "name": "Camera IP ngoài trời 2MP EZVIZ H3C 1080P Full Color",
+  "images": [
+    "camera-ip-wifi-ezviz-h3c-1080p-full-color_2_4.webp",
+    "camera-ip-wifi-ezviz-h3c-1080p-full-color_2_3.webp",
+    "camera-ip-wifi-ezviz-h3c-1080p-full-color-1.webp",
+    "camera-ip-wifi-ezviz-h3c-1080p-full-color-3.webp",
+    "camera-ip-wifi-ezviz-h3c-1080p-full-color_2_.webp",
+    "camera-ip-wifi-ezviz-h3c-1080p-full-color_3_.webp"
+  ],
+  "price": 1590000,
+  "types": [
+    {
+      "name": "2MP EZVIZ H3C 1080P",
+      "price_extra": 0,
+      "price_sale": 840000,
+      "price_update": 100000,
+      "colors": [
+        {
+          "name": "Trắng",
+          "image": "camera-ip-wifi-ezviz-h3c-1080p-full-color-1_1.webp",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": false,
+  "rating": 5,
+  "view": 12321,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0559"
+  }
+},
+{
+  "_id": {
+    "$oid": "673625834aa80dd2035f958b"
+  },
+  "name": "Tay cầm Gimbal DJI OM 5 Mobile SE",
+  "images": [
+    "text_ng_n_9_51.webp",
+    "text_ng_n_1__6_26.webp",
+    "text_ng_n_2__6_32.webp",
+    "text_ng_n_3__5_34.webp",
+    "text_ng_n_4__6_32.webp"
+  ],
+  "price": 2290000,
+  "types": [
+    {
+      "name": "DJI OM 5 Mobile SE",
+      "price_extra": 0,
+      "price_sale": 771000,
+      "price_update": 200000,
+      "colors": [
+        {
+          "name": "Trắng",
+          "image": "download_9__2_3.webp",
+          "price_extra": 0,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "sale": true,
+  "rating": 5,
+  "view": 23123,
+  "description": "",
+  "category_id": {
+    "$oid": "66ebc5dea9bfeced32ee0559"
+  }
+}]

@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "669250ca35d85c8445fd53b9"
+  },
+  "name": "Ngyễn Văn A",
+  "image": "admin.jpg",
+  "gender": 1,
+  "email": "anv@gmail.com",
+  "phone": "0123456789",
+  "dob": "2004-01-01",
+  "address": {
+    "province": "HCM",
+    "district": "Quận 12",
+    "ward": "Phường Tân Thới Hiệp",
+    "description": "Đường Nguyễn Thị Đặng"
+  },
+  "username": "admin",
+  "password": "$2a$10$m5S24p7jYf8WsEMWHV6UuOt7BApQQ.g8ql.6MAW0wXxEu7wt5diK2",
+  "role": 1,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "669250ca35d85c8445fd53ba"
+  },
+  "name": "Đào Vĩnh Khang",
+  "image": "khang.jpg",
+  "gender": 1,
+  "email": "khangdao0311@gmail.com",
+  "phone": "0976382553",
+  "dob": "2004-11-03",
+  "address": {
+    "province": "HCM",
+    "district": "Quận 12",
+    "ward": "Phường Tân Thới Hiệp",
+    "description": "Đường Nguyễn Thị Đặng"
+  },
+  "username": "khangdao",
+  "password": "$2a$10$m5S24p7jYf8WsEMWHV6UuOt7BApQQ.g8ql.6MAW0wXxEu7wt5diK2",
+  "role": 0,
+  "status": 1
+}]
